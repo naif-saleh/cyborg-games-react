@@ -1,0 +1,13 @@
+.cyporg-navbar{
+    min-height: 100px;
+}
+.cyporg-navbar a{
+    color: var(--color-light);
+}
+.cyporg-navbar a:hover{
+    color: var(--color-primary);
+    transition: 1s;
+}
+a{
+    color: rgb(61, 60, 60);
+}

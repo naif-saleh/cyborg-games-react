@@ -1,0 +1,12 @@
+.gaming-library-items{
+   display: flex;
+   flex-wrap: wrap;
+}
+.gaming-library-item{
+    flex: 1 1 100%;
+}
+.gaming-library-item ul{
+    display: flex;
+    justify-content: space-between;
+ 
+}

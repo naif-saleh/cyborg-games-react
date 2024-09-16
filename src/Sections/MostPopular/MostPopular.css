@@ -1,0 +1,18 @@
+
+
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.most-popular-item{
+    margin: 10px;
+    flex: 1 20%;
+    
+}
+
+.item-content{
+    display: flex;
+    justify-content: space-between;
+}
+
